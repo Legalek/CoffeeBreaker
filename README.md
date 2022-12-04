@@ -1,2 +1,2 @@
 # CoffeeBreaker
-![15%](https://progress-bar.dev/15)
+![5%](https://progress-bar.dev/5)
